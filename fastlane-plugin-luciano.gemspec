@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.author        = 'Luciano Luzzi'
   spec.email         = 'luciano.luzzi@nl.abnamro.com'
 
-  spec.summary       = 'It's a headbanger geek from outerspace.'
+  spec.summary       = 'Its a headbanger geek from outerspace.'
   # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-luciano"
   spec.license       = "MIT"
 

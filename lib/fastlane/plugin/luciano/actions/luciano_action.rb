@@ -5,11 +5,11 @@ module Fastlane
   module Actions
     class LucianoAction < Action
       def self.run(params)
-        UI.message("Let's bang our heads!")
+        system("open", "https://www.youtube.com/watch?v=dQw4w9WgXcQ")
       end
 
       def self.description
-        "It's a headbanger geek from outerspace."
+        "Its a headbanger geek from outerspace."
       end
 
       def self.authors
